@@ -1,0 +1,23 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+/* Override default code styling with Material UI code font */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Optional: Global customizations for Material UI components */
+.MuiTypography-root {
+  margin-bottom: 16px; /* Example: Adjust spacing for Material UI Typography */
+}
+
+/* Optional: Material UI Button Customization */
+.MuiButton-root {
+  border-radius: 8px; /* Example: Add custom border radius for Material UI Buttons */
+}
